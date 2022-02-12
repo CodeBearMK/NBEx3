@@ -1,0 +1,15 @@
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\NBEx3.exe
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\NBEx3.deps.json
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\NBEx3.runtimeconfig.json
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\NBEx3.dll
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\ref\NBEx3.dll
+D:\cat32tw\Desktop\NBEx3\bin\Debug\net6.0\NBEx3.pdb
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.GeneratedMSBuildEditorConfig.editorconfig
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.AssemblyInfoInputs.cache
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.AssemblyInfo.cs
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.dll
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\ref\NBEx3.dll
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.pdb
+D:\cat32tw\Desktop\NBEx3\obj\Debug\net6.0\NBEx3.genruntimeconfig.cache
